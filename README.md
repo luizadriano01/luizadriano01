@@ -64,7 +64,7 @@ Este projeto visa criar uma IA que consiga:
 
 > "Projeto em evolução contínua, com foco em performance, segurança e aplicações reais de negócio."
 
-**Demonstração do Conceito:** [https://linkia.lat/](https://painel.linkia.lat/chat/shared/04fce9ae-3403-4289-b2af-8d7319db7f78)
+**Demonstração do Conceito:** [https://linkia.lat](https://painel.linkia.lat/chat/shared/04fce9ae-3403-4289-b2af-8d7319db7f78)
 
 ---
 
@@ -72,7 +72,7 @@ Este projeto visa criar uma IA que consiga:
 
 Como parte do meu trabalho e desenvolvimento contínuo em IA, disponibilizo acesso gratuito a algumas das minhas APIs, incluindo serviços de **Geração de Imagens**, **Edição de Imagens** e **IA de Chats**.
 
-*   **Plataforma de APIs:** [https://apis.linkia.lat/](https://apis.linkia.lat/)
+*   **Plataforma de APIs:** [https://apis.linkia.lat](https://apis.linkia.lat)
 *   **Benefício:** Posso liberar até **10.000 requisições grátis** para você testar e integrar em seus projetos.
 
 **Como Obter:**

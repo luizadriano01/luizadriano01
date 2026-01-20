@@ -90,6 +90,6 @@ Estou sempre em busca de novos desafios e oportunidades que envolvam arquitetura
 
 | Contato | Link |
 | :--- | :--- |
-| **LinkedIn** | [https://www.linkedin.com/in/luiz-adriano-4b26a028a]{https://www.linkedin.com/in/luiz-adriano-4b26a028a} |
+| **LinkedIn** | [https://www.linkedin.com/in/luiz-adriano-4b26a028a](https://www.linkedin.com/in/luiz-adriano-4b26a028a) |
 | **WhatsApp** | [https://wa.me/556492648653](https://wa.me/556492648653) |
 | **GitHub** | [https://github.com/luizadriano01](https://github.com/luizadriano01) |
